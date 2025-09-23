@@ -1,1 +1,1 @@
-See written code in main.c in /src/main.c
+See main.c under the src folder
