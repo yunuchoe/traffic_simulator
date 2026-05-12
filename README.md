@@ -2,4 +2,4 @@ A real-time traffic control system implemented on an STM32F4 microcontroller. Bu
 
 A track of LED lights wired to a breadboard act as modelled cars and flow out randomly in response to the read ADC value. About two thirds near the end, the stoplight is positioned in which modelled cars can only pass during green lights. During both yellow and red lights, the cars wait and stack up, before being allowed to pass once the signal turns green.
 
-The core logic can be seen here: [**/src/main.c**](./src/main.c)
+The core logic can be seen here (under src folder): [**/main.c**](./src/main.c)
